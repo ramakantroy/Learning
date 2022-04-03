@@ -1,4 +1,8 @@
 test 1from local
 test 2 from local
 test 3 from github --> server
+<<<<<<< HEAD
 test 4 from locat
+=======
+test 5 from github --> server
+>>>>>>> aa70ee5b884212567caef0ba77f827570a4d1fc5
